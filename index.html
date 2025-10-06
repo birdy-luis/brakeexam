@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Brake Exam Practice</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+  <h1>Brake Exam Practice</h1>
+
+  <div id="setup">
+    <label for="numQuestions">Select number of questions:</label>
+    <select id="numQuestions">
+      <option value="20">20</option>
+      <option value="50">50</option>
+      <option value="100">100</option>
+      <option value="200">200</option>
+    </select>
+    <button id="startBtn">Start Exam</button>
+  </div>
+
+  <div id="exam" style="display:none;">
+    <div id="questionContainer">
+      <p id="question"></p>
+      <div id="options"></div>
+      <button id="revealBtn">Reveal Answer</button>
+      <p id="answer" style="display:none;"></p>
+      <button id="nextBtn" style="display:none;">Next</button>
+    </div>
+    <p id="progress"></p>
+  </div>
+
+  <div id="finish" style="display:none;">
+    <h2>Exam Finished!</h2>
+    <button id="restartBtn">Restart Exam</button>
+  </div>
+</div>
+
+<script>
+let questions = [];
+let currentQuestionIndex = 0;
+let selectedQuestions = [];
+
+async function loadQuestions() {
+  const res = await fetch('questions.json');
+  questions = await res.json();
+}
+
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+function startExam() {
+  const num = parseInt(document.getElementById('numQuestions').value);
+  selectedQuestions = [...questions];
+  shuffleArray(selectedQuestions);
+  selectedQuestions = selectedQuestions.slice(0, num);
+
+  document.getElementById('setup').style.display = 'none';
+  document.getElementById('exam').style.display = 'block';
+  currentQuestionIndex = 0;
+  showQuestion();
+}
+
+function showQuestion() {
+  const q = selectedQuestions[currentQuestionIndex];
+  document.getElementById('question').innerText = q.question;
+  
+  const optionsDiv = document.getElementById('options');
+  optionsDiv.innerHTML = '';
+  for (const key in q.options) {
+    const btn = document.createElement('button');
+    btn.className = 'optionBtn';
+    btn.innerText = `${key}) ${q.options[key]}`;
+    btn.onclick = () => selectAnswer(key);
+    optionsDiv.appendChild(btn);
+  }
+
+  document.getElementById('answer').style.display = 'none';
+  document.getElementById('nextBtn').style.display = 'none';
+  document.getElementById('revealBtn').style.display = 'inline-block';
+  document.getElementById('progress').innerText = `Question ${currentQuestionIndex + 1} of ${selectedQuestions.length}`;
+}
+
+function selectAnswer(selected) {
+  document.getElementById('answer').innerText = `Correct Answer: ${selectedQuestions[currentQuestionIndex].answer}`;
+  document.getElementById('answer').style.display = 'block';
+  document.getElementById('nextBtn').style.display = 'inline-block';
+}
+
+document.getElementById('revealBtn').addEventListener('click', () => {
+  document.getElementById('answer').innerText = `Correct Answer: ${selectedQuestions[currentQuestionIndex].answer}`;
+  document.getElementById('answer').style.display = 'block';
+  document.getElementById('nextBtn').style.display = 'inline-block';
+});
+
+document.getElementById('nextBtn').addEventListener('click', () => {
+  currentQuestionIndex++;
+  if (currentQuestionIndex >= selectedQuestions.length) {
+    document.getElementById('exam').style.display = 'none';
+    document.getElementById('finish').style.display = 'block';
+  } else {
+    showQuestion();
+  }
+});
+
+document.getElementById('startBtn').addEventListener('click', startExam);
+document.getElementById('restartBtn').addEventListener('click', () => {
+  document.getElementById('finish').style.display = 'none';
+  document.getElementById('setup').style.display = 'block';
+});
+
+loadQuestions();
+</script>
+</body>
+</html>
