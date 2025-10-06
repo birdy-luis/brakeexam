@@ -1,0 +1,2104 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary function of the brake master cylinder?",
+    "options": [
+      "Convert pedal force into hydraulic pressure",
+      "Apply friction to wheels",
+      "Absorb road shocks",
+      "Control steering"
+    ],
+    "answer": "A) Convert pedal force into hydraulic pressure"
+  },
+  {
+    "id": 2,
+    "question": "Which component multiplies force in a hydraulic brake system?",
+    "options": [
+      "Brake booster",
+      "Master cylinder",
+      "Brake pedal lever",
+      "Wheel cylinder"
+    ],
+    "answer": "C) Brake pedal lever"
+  },
+  {
+    "id": 3,
+    "question": "What does the brake booster use to reduce pedal effort?",
+    "options": [
+      "Engine vacuum or hydraulic pressure",
+      "Coolant flow",
+      "Transmission pressure",
+      "Electrical current"
+    ],
+    "answer": "A) Engine vacuum or hydraulic pressure"
+  },
+  {
+    "id": 4,
+    "question": "A driver reports a “low, spongy pedal.” What is the most likely cause?",
+    "options": [
+      "Air in brake lines",
+      "Low transmission fluid",
+      "Faulty alternator",
+      "Overinflated tires"
+    ],
+    "answer": "A) Air in brake lines"
+  },
+  {
+    "id": 5,
+    "question": "What type of brake fluid is most commonly used in modern vehicles?",
+    "options": [
+      "DOT 3 or DOT 4 glycol-based",
+      "DOT 1",
+      "Engine oil",
+      "Transmission fluid"
+    ],
+    "answer": "A) DOT 3 or DOT 4 glycol-based"
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of the brake proportioning valve?",
+    "options": [
+      "Prevent rear wheel lockup under hard braking",
+      "Increase pedal force",
+      "Bleed air automatically",
+      "Control ABS light"
+    ],
+    "answer": "A) Prevent rear wheel lockup under hard braking"
+  },
+  {
+    "id": 7,
+    "question": "A vehicle pulls to one side when braking. What is a likely cause?",
+    "options": [
+      "Frozen caliper piston on one side",
+      "Low coolant",
+      "Uneven tire pressure",
+      "Loose steering column",
+      "Overheated friction materials",
+      "Low tire tread",
+      "Excess oil pressure",
+      "Bad shocks"
+    ],
+    "answer": "A) Overheated friction materials"
+  },
+  {
+    "id": 9,
+    "question": "Which brake design uses a wheel cylinder?",
+    "options": [
+      "Drum brakes",
+      "Disc brakes",
+      "Electric brakes",
+      "Hydraulic clutch",
+      "Better heat dissipation and fade resistance",
+      "Cheaper replacement",
+      "Lower hydraulic pressure required",
+      "No need for brake pads"
+    ],
+    "answer": "A) Better heat dissipation and fade resistance"
+  },
+  {
+    "id": 11,
+    "question": "Which tool is used to measure rotor thickness?",
+    "options": [
+      "Micrometer or vernier caliper",
+      "Feeler gauge",
+      "Compression tester",
+      "Dial indicator"
+    ],
+    "answer": "A) Micrometer or vernier caliper"
+  },
+  {
+    "id": 12,
+    "question": "What is the purpose of an anti-lock braking system (ABS)?",
+    "options": [
+      "Prevent wheel lockup and maintain steering control",
+      "Shorten stopping distance in all conditions",
+      "Increase brake pedal effort",
+      "Eliminate brake pads"
+    ],
+    "answer": "A) Prevent wheel lockup and maintain steering control"
+  },
+  {
+    "id": 13,
+    "question": "Which sensor is critical for ABS operation?",
+    "options": [
+      "Wheel speed sensor",
+      "O2 sensor",
+      "MAF sensor",
+      "Coolant temperature sensor",
+      "Normal ABS operation",
+      "Sign of brake failure",
+      "Low brake fluid",
+      "Bent steering knuckle",
+      "Worn brake pads reaching wear indicators",
+      "Low transmission fluid",
+      "Bad fuel pump",
+      "Faulty alternator"
+    ],
+    "answer": "A) Worn brake pads reaching wear indicators"
+  },
+  {
+    "id": 16,
+    "question": "What is the minimum legal brake pad thickness in most states?",
+    "options": [
+      "2–3 mm",
+      "10 mm",
+      "8 mm",
+      "12 mm",
+      "Low brake fluid level",
+      "Parking brake engaged",
+      "Faulty ABS module",
+      "Any of the above"
+    ],
+    "answer": "D) Any of the above"
+  },
+  {
+    "id": 18,
+    "question": "What is the purpose of the parking brake?",
+    "options": [
+      "Hold vehicle stationary when parked",
+      "Replace service brakes during driving",
+      "Increase engine torque",
+      "Provide ABS control",
+      "Internal leak in master cylinder",
+      "Bad spark plugs",
+      "Loose suspension components",
+      "Low fuel pressure"
+    ],
+    "answer": "A) Internal leak in master cylinder"
+  },
+  {
+    "id": 20,
+    "question": "Which component directly presses the brake pads against the rotor?",
+    "options": [
+      "Caliper piston",
+      "Wheel cylinder",
+      "Master cylinder",
+      "Proportioning valve"
+    ],
+    "answer": "A) Caliper piston"
+  },
+  {
+    "id": 21,
+    "question": "What condition results from warped brake rotors?",
+    "options": [
+      "Pedal pulsation during braking",
+      "Spongy pedal",
+      "No ABS light",
+      "Tire noise only"
+    ],
+    "answer": "A) Pedal pulsation during braking"
+  },
+  {
+    "id": 22,
+    "question": "Which brake system uses shoes instead of pads?",
+    "options": [
+      "Drum brakes",
+      "Disc brakes",
+      "ABS",
+      "Regenerative brakes"
+    ],
+    "answer": "A) Drum brakes"
+  },
+  {
+    "id": 23,
+    "question": "Why should brake fluid not be exposed to air for long periods?",
+    "options": [
+      "It absorbs moisture (hygroscopic)",
+      "It evaporates quickly",
+      "It reacts with oxygen",
+      "It loses color"
+    ],
+    "answer": "A) It absorbs moisture (hygroscopic)"
+  },
+  {
+    "id": 48,
+    "question": "Which type of brake wear indicator produces noise?",
+    "options": [
+      "Mechanical wear tab",
+      "Electronic sensor only",
+      "Hydraulic piston",
+      "Proportioning valve"
+    ],
+    "answer": "A) Mechanical wear tab"
+  },
+  {
+    "id": 49,
+    "question": "What is the function of a metering valve in front disc/rear drum systems?",
+    "options": [
+      "Delay front brake application until rear shoes engage",
+      "Increase hydraulic pressure",
+      "Release trapped air",
+      "Control ABS sensors",
+      "Worn or out-of-adjustment drum brakes",
+      "Overcharged battery",
+      "Faulty alternator",
+      "Bad starter"
+    ],
+    "answer": "A) Worn or out-of-adjustment drum brakes"
+  },
+  {
+    "id": 51,
+    "question": "Which brake design is self-energizing?",
+    "options": [
+      "Drum brakes",
+      "Disc brakes",
+      "ABS brakes only",
+      "Hybrid regenerative brakes"
+    ],
+    "answer": "A) Drum brakes"
+  },
+  {
+    "id": 52,
+    "question": "Which type of brake pad produces the least brake dust?",
+    "options": [
+      "Ceramic pads",
+      "Semi-metallic pads",
+      "Organic pads",
+      "Asbestos pads"
+    ],
+    "answer": "A) Ceramic pads"
+  },
+  {
+    "id": 59,
+    "question": "What is the main purpose of the brake booster?",
+    "options": [
+      "Reduce pedal effort",
+      "Prevent wheel lockup",
+      "Increase stopping distance",
+      "Cool the brakes",
+      "Uneven pad wear",
+      "Vehicle pulling",
+      "Brake overheating",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 61,
+    "question": "Which part applies the parking brake in rear disc brakes?",
+    "options": [
+      "Small internal drum shoes or caliper mechanism",
+      "ABS pump",
+      "Wheel speed sensor",
+      "Proportioning valve"
+    ],
+    "answer": "A) Small internal drum shoes or caliper mechanism"
+  },
+  {
+    "id": 62,
+    "question": "Which type of brake fluid should not be mixed with others?",
+    "options": [
+      "DOT 5",
+      "DOT 3",
+      "DOT 4",
+      "DOT 5.1"
+    ],
+    "answer": "A) DOT 5"
+  },
+  {
+    "id": 63,
+    "question": "What does glazing on brake pads or shoes indicate?",
+    "options": [
+      "Overheating from excessive braking",
+      "Proper break-in",
+      "Normal wear",
+      "Contaminated brake fluid"
+    ],
+    "answer": "A) Overheating from excessive braking"
+  },
+  {
+    "id": 64,
+    "question": "Which condition may cause brake pedal vibration but not steering wheel vibration?",
+    "options": [
+      "Rear drum out-of-round",
+      "Front rotor warpage",
+      "Tire imbalance",
+      "Worn shocks",
+      "Parking brake",
+      "Booster brake",
+      "Drum brake",
+      "Safety brake"
+    ],
+    "answer": "A) Parking brake"
+  },
+  {
+    "id": 72,
+    "question": "What should be inspected first if brake pads wear out too quickly?",
+    "options": [
+      "Driving habits and caliper condition",
+      "Radiator hoses",
+      "Transmission fluid",
+      "Tire alignment"
+    ],
+    "answer": "A) Driving habits and caliper condition"
+  },
+  {
+    "id": 73,
+    "question": "Which device measures brake pedal travel electronically?",
+    "options": [
+      "Brake pedal position sensor",
+      "ABS wheel sensor",
+      "Throttle sensor",
+      "Mass airflow sensor"
+    ],
+    "answer": "A) Brake pedal position sensor"
+  },
+  {
+    "id": 74,
+    "question": "Which condition can occur if brakes are not properly bled?",
+    "options": [
+      "Spongy pedal",
+      "Hard pedal",
+      "Pedal vibration only",
+      "Brake fade"
+    ],
+    "answer": "A) Spongy pedal"
+  },
+  {
+    "id": 75,
+    "question": "Which ABS valve reduces hydraulic pressure to prevent wheel lock?",
+    "options": [
+      "Dump valve",
+      "Hold valve",
+      "Inlet valve",
+      "Check valve"
+    ],
+    "answer": "A) Dump valve"
+  },
+  {
+    "id": 76,
+    "question": "Which is NOT a symptom of contaminated brake fluid?",
+    "options": [
+      "Discolored fluid",
+      "Rust inside master cylinder",
+      "Increased boiling point",
+      "Poor braking performance"
+    ],
+    "answer": "C) Increased boiling point"
+  },
+  {
+    "id": 83,
+    "question": "Which sensor sends wheel rotation info to the ABS module?",
+    "options": [
+      "Wheel speed sensor",
+      "Crankshaft sensor",
+      "Throttle position sensor",
+      "MAP sensor"
+    ],
+    "answer": "A) Wheel speed sensor"
+  },
+  {
+    "id": 84,
+    "question": "Which action is recommended after replacing brake fluid?",
+    "options": [
+      "Bleed system to remove air",
+      "Add engine coolant",
+      "Inflate tires",
+      "Replace spark plugs"
+    ],
+    "answer": "A) Bleed system to remove air"
+  },
+  {
+    "id": 85,
+    "question": "What can cause rear brakes not to engage properly in drum systems?",
+    "options": [
+      "Weak return springs",
+      "Out-of-adjustment shoes",
+      "Leaking wheel cylinder",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 86,
+    "question": "What happens when the vacuum hose to the booster leaks?",
+    "options": [
+      "Hard brake pedal",
+      "Spongy pedal",
+      "Excessive travel",
+      "Vehicle pulls"
+    ],
+    "answer": "A) Hard brake pedal"
+  },
+  {
+    "id": 87,
+    "question": "Which component helps reduce squealing noise?",
+    "options": [
+      "Anti-rattle clips/shims",
+      "Caliper piston",
+      "Return spring",
+      "Booster"
+    ],
+    "answer": "A) Anti-rattle clips/shims"
+  },
+  {
+    "id": 88,
+    "question": "Which system combines ABS with traction control?",
+    "options": [
+      "Electronic Stability Control (ESC)",
+      "Brake booster",
+      "Parking brake",
+      "Manual brake system"
+    ],
+    "answer": "A) Electronic Stability Control (ESC)"
+  },
+  {
+    "id": 95,
+    "question": "Which part prevents brake fluid from returning too quickly to the master cylinder?",
+    "options": [
+      "Residual check valve",
+      "Proportioning valve",
+      "Return spring",
+      "Bleeder screw"
+    ],
+    "answer": "A) Residual check valve"
+  },
+  {
+    "id": 96,
+    "question": "What happens if front rotors are below discard thickness?",
+    "options": [
+      "Increased risk of brake failure",
+      "Reduced pedal vibration",
+      "Lower pad wear",
+      "Normal braking"
+    ],
+    "answer": "A) Increased risk of brake failure"
+  },
+  {
+    "id": 97,
+    "question": "Which device is used to measure brake drum diameter?",
+    "options": [
+      "Drum micrometer",
+      "Vernier caliper",
+      "Dial indicator",
+      "Torque wrench"
+    ],
+    "answer": "A) Drum micrometer"
+  },
+  {
+    "id": 98,
+    "question": "Which component automatically adjusts drum brakes?",
+    "options": [
+      "Adjuster lever and star wheel",
+      "Pedal return spring",
+      "Proportioning valve",
+      "Wheel speed sensor"
+    ],
+    "answer": "A) Adjuster lever and star wheel"
+  },
+  {
+    "id": 99,
+    "question": "Which condition causes pulling to one side during braking?",
+    "options": [
+      "Sticking caliper",
+      "Uneven tire pressure",
+      "Bad alignment",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 100,
+    "question": "Which safety procedure is required before pushing caliper pistons back?",
+    "options": [
+      "Open bleeder screw or cap master cylinder",
+      "Inflate tires",
+      "Add coolant",
+      "Disconnect battery"
+    ],
+    "answer": "A) Open bleeder screw or cap master cylinder"
+  },
+  {
+    "id": 107,
+    "question": "Which condition can cause brake fluid to boil?",
+    "options": [
+      "Excessive hard braking on long downhill",
+      "Cold weather",
+      "Low engine oil",
+      "Poor alignment"
+    ],
+    "answer": "A) Excessive hard braking on long downhill"
+  },
+  {
+    "id": 108,
+    "question": "Which symptom occurs when caliper slide pins are seized?",
+    "options": [
+      "Uneven brake pad wear",
+      "Grinding noise",
+      "Vehicle pull",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 109,
+    "question": "Which brake system uses compressed air?",
+    "options": [
+      "Heavy truck air brakes",
+      "Hydraulic passenger car brakes",
+      "Regenerative brakes",
+      "Mechanical parking brakes only"
+    ],
+    "answer": "A) Heavy truck air brakes"
+  },
+  {
+    "id": 110,
+    "question": "Which type of brake pad material wears rotors faster?",
+    "options": [
+      "Semi-metallic pads",
+      "Ceramic pads",
+      "Organic pads",
+      "Asbestos pads"
+    ],
+    "answer": "A) Semi-metallic pads"
+  },
+  {
+    "id": 111,
+    "question": "Which brake shoe is usually shorter in length?",
+    "options": [
+      "Primary shoe (front shoe)",
+      "Secondary shoe (rear shoe)",
+      "Parking brake shoe only",
+      "All are equal length"
+    ],
+    "answer": "A) Primary shoe (front shoe)"
+  },
+  {
+    "id": 118,
+    "question": "Which condition may result if a master cylinder reservoir is left uncapped?",
+    "options": [
+      "Moisture contamination of brake fluid",
+      "Air intake by engine",
+      "Fuel evaporation",
+      "Coolant loss"
+    ],
+    "answer": "A) Moisture contamination of brake fluid"
+  },
+  {
+    "id": 119,
+    "question": "What is the minimum safe brake pad thickness in most vehicles?",
+    "options": [
+      "About 3 mm (1/8 inch)",
+      "10 mm",
+      "6 mm",
+      "1 mm"
+    ],
+    "answer": "A) About 3 mm (1/8 inch)"
+  },
+  {
+    "id": 120,
+    "question": "Which symptom occurs with a leaking brake booster diaphragm?",
+    "options": [
+      "Hissing noise and hard pedal",
+      "Soft pedal",
+      "Brake pulsation",
+      "Grinding noise"
+    ],
+    "answer": "A) Hissing noise and hard pedal"
+  },
+  {
+    "id": 121,
+    "question": "Which type of drum brake design uses a single wheel cylinder and both shoes moving outwards?",
+    "options": [
+      "Dual-servo drum brakes",
+      "Leading-trailing drum brakes",
+      "Floating shoe brakes",
+      "Disc/drum hybrid brakes"
+    ],
+    "answer": "B) Leading-trailing drum brakes"
+  },
+  {
+    "id": 122,
+    "question": "Which type of sensor is often used for electronic parking brakes?",
+    "options": [
+      "Position sensor",
+      "Knock sensor",
+      "O2 sensor",
+      "MAP sensor"
+    ],
+    "answer": "A) Position sensor"
+  },
+  {
+    "id": 123,
+    "question": "Which brake system part often contains copper in new fluid tests?",
+    "options": [
+      "Brake lines and fittings (indicating corrosion)",
+      "ABS pump",
+      "Brake booster",
+      "Master cylinder piston"
+    ],
+    "answer": "A) Brake lines and fittings (indicating corrosion)"
+  },
+  {
+    "id": 130,
+    "question": "Which brake system component can be adjusted to balance braking force?",
+    "options": [
+      "Proportioning valve",
+      "Return spring",
+      "Pedal spring",
+      "Rotor thickness"
+    ],
+    "answer": "A) Proportioning valve"
+  },
+  {
+    "id": 131,
+    "question": "Which symptom is caused by contaminated brake linings?",
+    "options": [
+      "Reduced friction and poor braking",
+      "Grinding noise",
+      "Hard pedal",
+      "Short pedal travel"
+    ],
+    "answer": "A) Reduced friction and poor braking"
+  },
+  {
+    "id": 132,
+    "question": "Which condition can lead to dragging drum brakes?",
+    "options": [
+      "Frozen adjuster",
+      "Weak return springs",
+      "Seized wheel cylinder piston",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 133,
+    "question": "Which part of the ABS monitors wheel deceleration rates?",
+    "options": [
+      "ABS control module",
+      "Brake booster",
+      "Residual valve",
+      "Star wheel"
+    ],
+    "answer": "A) ABS control module"
+  },
+  {
+    "id": 134,
+    "question": "Which condition can cause a brake pull that changes when pedal is released?",
+    "options": [
+      "Sticking caliper",
+      "Tire wear",
+      "Rotor runout",
+      "Loose ball joint"
+    ],
+    "answer": "A) Sticking caliper"
+  },
+  {
+    "id": 135,
+    "question": "Which type of ABS works on only one axle?",
+    "options": [
+      "One-channel ABS",
+      "Four-channel ABS",
+      "Three-channel ABS",
+      "Two-channel ABS"
+    ],
+    "answer": "A) One-channel ABS"
+  },
+  {
+    "id": 142,
+    "question": "Which device controls rear brake pressure during heavy braking?",
+    "options": [
+      "Proportioning valve",
+      "Metering valve",
+      "Residual valve",
+      "Master cylinder spring"
+    ],
+    "answer": "A) Proportioning valve"
+  },
+  {
+    "id": 143,
+    "question": "Which symptom occurs with a leaking wheel cylinder?",
+    "options": [
+      "Fluid on brake shoes",
+      "Poor braking",
+      "Low fluid in reservoir",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 144,
+    "question": "What is the purpose of an anti-rattle spring?",
+    "options": [
+      "Reduce brake noise",
+      "Apply the brakes",
+      "Increase pedal force",
+      "Adjust shoe clearance"
+    ],
+    "answer": "A) Reduce brake noise"
+  },
+  {
+    "id": 145,
+    "question": "Which test checks for vacuum leaks in brake boosters?",
+    "options": [
+      "Engine-off pedal test",
+      "Compression test",
+      "Fuel pressure test",
+      "Voltage drop test"
+    ],
+    "answer": "A) Engine-off pedal test"
+  },
+  {
+    "id": 146,
+    "question": "What should be replaced whenever new brake shoes are installed on drums?",
+    "options": [
+      "Return springs",
+      "Master cylinder",
+      "Proportioning valve",
+      "ABS module"
+    ],
+    "answer": "A) Return springs"
+  },
+  {
+    "id": 147,
+    "question": "Which brake fluid type is most common in passenger vehicles?",
+    "options": [
+      "DOT 3",
+      "DOT 5",
+      "DOT 2",
+      "DOT 6"
+    ],
+    "answer": "A) DOT 3"
+  },
+  {
+    "id": 154,
+    "question": "Which brake lining material is best for quiet operation?",
+    "options": [
+      "Organic pads",
+      "Semi-metallic pads",
+      "Ceramic pads",
+      "Carbon fiber pads"
+    ],
+    "answer": "A) Organic pads"
+  },
+  {
+    "id": 155,
+    "question": "What is the function of the brake bleeder screw?",
+    "options": [
+      "Allow trapped air/fluid to escape",
+      "Prevent wheel lockup",
+      "Increase pedal travel",
+      "Adjust pad clearance"
+    ],
+    "answer": "A) Allow trapped air/fluid to escape"
+  },
+  {
+    "id": 156,
+    "question": "Which condition can cause shuddering when braking at highway speeds?",
+    "options": [
+      "Rotor runout or uneven thickness",
+      "Low transmission fluid",
+      "Bad tie rod",
+      "Engine misfire"
+    ],
+    "answer": "A) Rotor runout or uneven thickness"
+  },
+  {
+    "id": 157,
+    "question": "Which tool is used to compress disc brake caliper pistons?",
+    "options": [
+      "C-clamp or brake caliper tool",
+      "Micrometer",
+      "Feeler gauge",
+      "Torque wrench"
+    ],
+    "answer": "A) C-clamp or brake caliper tool"
+  },
+  {
+    "id": 158,
+    "question": "Which system reduces wheel slip during acceleration using the brakes?",
+    "options": [
+      "Traction control system (TCS)",
+      "Metering valve",
+      "Residual valve",
+      "Vacuum booster"
+    ],
+    "answer": "A) Traction control system (TCS)"
+  },
+  {
+    "id": 159,
+    "question": "Which condition may cause a low, spongy pedal even with full fluid?",
+    "options": [
+      "Air trapped in lines",
+      "Faulty brake booster",
+      "Warped rotors",
+      "Seized caliper"
+    ],
+    "answer": "A) Air trapped in lines"
+  },
+  {
+    "id": 166,
+    "question": "Which condition causes squealing noise at light braking?",
+    "options": [
+      "Glazed pads or missing shims",
+      "Worn shocks",
+      "Bad alternator",
+      "Loose belts"
+    ],
+    "answer": "A) Glazed pads or missing shims"
+  },
+  {
+    "id": 167,
+    "question": "Which device is used to power hydraulic brakes on hybrids and EVs?",
+    "options": [
+      "Electric brake pump",
+      "Vacuum booster",
+      "Cable brake",
+      "Mechanical linkage"
+    ],
+    "answer": "A) Electric brake pump"
+  },
+  {
+    "id": 168,
+    "question": "Which test checks ABS function on a road test?",
+    "options": [
+      "Firm brake application to feel pulsation",
+      "Compression test",
+      "Coolant pressure test",
+      "Voltage drop test"
+    ],
+    "answer": "A) Firm brake application to feel pulsation"
+  },
+  {
+    "id": 169,
+    "question": "Which component applies brake pressure in hydraulic systems?",
+    "options": [
+      "Master cylinder piston",
+      "Return spring",
+      "ABS solenoid",
+      "Dust shield"
+    ],
+    "answer": "A) Master cylinder piston"
+  },
+  {
+    "id": 170,
+    "question": "Which symptom occurs if caliper mounting bolts are loose?",
+    "options": [
+      "Clunking noise during braking",
+      "Grinding noise only",
+      "Pedal sinking",
+      "Fluid leak"
+    ],
+    "answer": "A) Clunking noise during braking"
+  },
+  {
+    "id": 171,
+    "question": "Which brake component may have tapered wear if misaligned?",
+    "options": [
+      "Brake pads",
+      "Rotors",
+      "Drums",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 178,
+    "question": "Which brake service procedure must be done diagonally on most older vehicles?",
+    "options": [
+      "Bleeding sequence (RR → LF, LR → RF)",
+      "Rotor replacement",
+      "Pad bedding-in",
+      "Caliper cleaning"
+    ],
+    "answer": "A) Bleeding sequence (RR → LF, LR → RF)"
+  },
+  {
+    "id": 179,
+    "question": "Which brake test uses a rolling road machine to check brake balance?",
+    "options": [
+      "Brake dynamometer test",
+      "Compression test",
+      "Fuel pressure test",
+      "Cooling system test"
+    ],
+    "answer": "A) Brake dynamometer test"
+  },
+  {
+    "id": 180,
+    "question": "Which brake component can trap air if not properly bled?",
+    "options": [
+      "ABS hydraulic modulator",
+      "Dust shield",
+      "Brake shoe",
+      "Booster diaphragm"
+    ],
+    "answer": "A) ABS hydraulic modulator"
+  },
+  {
+    "id": 181,
+    "question": "Which symptom indicates warped brake drums?",
+    "options": [
+      "Pulsating pedal at low speeds",
+      "Pedal sinks",
+      "Grinding noise",
+      "Spongy pedal"
+    ],
+    "answer": "A) Pulsating pedal at low speeds"
+  },
+  {
+    "id": 182,
+    "question": "Which device delays front disc brakes until rear drums engage?",
+    "options": [
+      "Metering valve",
+      "Proportioning valve",
+      "Residual valve",
+      "Check valve"
+    ],
+    "answer": "A) Metering valve"
+  },
+  {
+    "id": 183,
+    "question": "Which component connects the parking brake lever to the rear brakes?",
+    "options": [
+      "Parking brake cable",
+      "Pedal return spring",
+      "Proportioning valve",
+      "Booster rod"
+    ],
+    "answer": "A) Parking brake cable"
+  },
+  {
+    "id": 190,
+    "question": "Which condition can occur if rear brake adjusters fail?",
+    "options": [
+      "Excessive pedal travel",
+      "Poor parking brake performance",
+      "Uneven braking",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 191,
+    "question": "Which type of booster uses hydraulic pressure instead of vacuum?",
+    "options": [
+      "Hydroboost",
+      "Vacuum booster",
+      "Cable booster",
+      "Manual booster"
+    ],
+    "answer": "A) Hydroboost"
+  },
+  {
+    "id": 192,
+    "question": "Which part provides the friction surface in a drum brake?",
+    "options": [
+      "Brake shoe lining",
+      "Return spring",
+      "Wheel cylinder",
+      "Backing plate"
+    ],
+    "answer": "A) Brake shoe lining"
+  },
+  {
+    "id": 193,
+    "question": "Which ABS light behavior indicates a system fault?",
+    "options": [
+      "Light stays on after engine starts",
+      "Light turns off after 3 seconds",
+      "Light flashes once then goes out",
+      "No light present"
+    ],
+    "answer": "A) Light stays on after engine starts"
+  },
+  {
+    "id": 194,
+    "question": "Which condition may cause brake fluid foaming?",
+    "options": [
+      "Air leaks in hydraulic system",
+      "Excessive pedal free play",
+      "Worn pads",
+      "Rusty rotors"
+    ],
+    "answer": "A) Air leaks in hydraulic system"
+  },
+  {
+    "id": 195,
+    "question": "Which test verifies proper parking brake operation?",
+    "options": [
+      "Holding car on incline test",
+      "Compression test",
+      "Torque test",
+      "Vacuum test",
+      "Every 2 years (or as specified by manufacturer)",
+      "Every 50,000 miles",
+      "Never, unless leaking",
+      "Every 10 years"
+    ],
+    "answer": "A) Every 2 years (or as specified by manufacturer)"
+  },
+  {
+    "id": 25,
+    "question": "Which system prevents rear wheels from locking up first during braking?",
+    "options": [
+      "Proportioning valve",
+      "ABS module",
+      "Wheel speed sensor",
+      "Brake booster"
+    ],
+    "answer": "A) Proportioning valve"
+  },
+  {
+    "id": 26,
+    "question": "Which device allows brake fluid to flow only in one direction?",
+    "options": [
+      "Check valve",
+      "Bleeder screw",
+      "Wheel cylinder",
+      "Proportioning valve"
+    ],
+    "answer": "A) Check valve"
+  },
+  {
+    "id": 27,
+    "question": "What type of brake system uses electronic control and regenerative braking?",
+    "options": [
+      "Hybrid/electric vehicle braking system",
+      "Drum brakes",
+      "Hydraulic only system",
+      "Mechanical-only system",
+      "Maintain slight pressure to keep wheel cylinder seals tight",
+      "Reduce pedal effort",
+      "Increase ABS activation",
+      "Release air bubbles"
+    ],
+    "answer": "A) Maintain slight pressure to keep wheel cylinder seals tight"
+  },
+  {
+    "id": 29,
+    "question": "Which material is commonly used in modern brake pads?",
+    "options": [
+      "Semi-metallic or ceramic",
+      "Asbestos only",
+      "Plastic composites",
+      "Rubber"
+    ],
+    "answer": "A) Semi-metallic or ceramic"
+  },
+  {
+    "id": 30,
+    "question": "What condition may cause uneven brake pad wear?",
+    "options": [
+      "Sticking caliper slide pins",
+      "Low tire tread",
+      "Clogged air filter",
+      "Worn ball joints only"
+    ],
+    "answer": "A) Sticking caliper slide pins"
+  },
+  {
+    "id": 31,
+    "question": "What is the function of a brake equalizer bar?",
+    "options": [
+      "Distribute parking brake force evenly",
+      "Adjust tire pressure",
+      "Balance suspension load",
+      "Prevent brake fade"
+    ],
+    "answer": "A) Distribute parking brake force evenly"
+  },
+  {
+    "id": 32,
+    "question": "What is the typical brake rotor minimum thickness called?",
+    "options": [
+      "Discard thickness",
+      "Maximum thickness",
+      "Refinish limit",
+      "Break-in point"
+    ],
+    "answer": "A) Discard thickness"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following indicates a leaking brake hose?",
+    "options": [
+      "Fluid seepage near hose connection",
+      "Low coolant level",
+      "Engine misfire",
+      "Tire tread wear",
+      "Vehicle pulling to one side",
+      "Uneven pad wear",
+      "Overheated rotor",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 35,
+    "question": "What is brake “bleeding”?",
+    "options": [
+      "Removing air from hydraulic system",
+      "Adding coolant to radiator",
+      "Replacing spark plugs",
+      "Rotating tires"
+    ],
+    "answer": "A) Removing air from hydraulic system"
+  },
+  {
+    "id": 36,
+    "question": "Which tool is often used during brake bleeding?",
+    "options": [
+      "Vacuum pump",
+      "Torque wrench",
+      "Feeler gauge",
+      "Compression tester",
+      "Brake booster failure",
+      "Worn pads",
+      "Low tire pressure",
+      "Faulty alternator"
+    ],
+    "answer": "A) Brake booster failure"
+  },
+  {
+    "id": 38,
+    "question": "Which type of ABS system controls brake pressure to each wheel individually?",
+    "options": [
+      "Four-channel ABS",
+      "One-channel ABS",
+      "Two-channel ABS",
+      "None of the above"
+    ],
+    "answer": "A) Four-channel ABS"
+  },
+  {
+    "id": 39,
+    "question": "Which condition can cause brake fluid contamination?",
+    "options": [
+      "Moisture absorption",
+      "Mixing DOT 3 and DOT 5",
+      "Dirt entry during service",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 40,
+    "question": "What is the main cause of a “dragging brake”?",
+    "options": [
+      "Caliper piston not retracting fully",
+      "Low coolant",
+      "Faulty spark plugs",
+      "Slipping clutch"
+    ],
+    "answer": "A) Caliper piston not retracting fully"
+  },
+  {
+    "id": 41,
+    "question": "Which component is responsible for converting hydraulic pressure into mechanical movement at the wheel?",
+    "options": [
+      "Wheel cylinder or caliper piston",
+      "Master cylinder",
+      "Brake booster",
+      "ABS pump"
+    ],
+    "answer": "A) Wheel cylinder or caliper piston"
+  },
+  {
+    "id": 42,
+    "question": "What could cause the ABS warning light to stay on?",
+    "options": [
+      "Faulty wheel speed sensor",
+      "Low coolant",
+      "Bad ignition coil",
+      "Worn spark plugs"
+    ],
+    "answer": "A) Faulty wheel speed sensor"
+  },
+  {
+    "id": 43,
+    "question": "Which condition can cause vibration during braking?",
+    "options": [
+      "Warped rotors",
+      "Loose lug nuts",
+      "Uneven pad deposits",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 44,
+    "question": "What should be checked first if brakes feel “soft”?",
+    "options": [
+      "Brake fluid level",
+      "Battery voltage",
+      "Tire pressure",
+      "Transmission fluid level"
+    ],
+    "answer": "A) Brake fluid level"
+  },
+  {
+    "id": 45,
+    "question": "Which brake component returns the pedal to its original position?",
+    "options": [
+      "Pedal return spring",
+      "Brake booster",
+      "Master cylinder",
+      "ABS solenoid"
+    ],
+    "answer": "A) Pedal return spring"
+  },
+  {
+    "id": 46,
+    "question": "Which safety device prevents complete fluid loss in case of a brake line failure?",
+    "options": [
+      "Dual-circuit master cylinder",
+      "Brake booster",
+      "Proportioning valve",
+      "ABS sensor"
+    ],
+    "answer": "A) Dual-circuit master cylinder"
+  },
+  {
+    "id": 47,
+    "question": "When replacing brake pads, what should also be inspected?",
+    "options": [
+      "Rotor thickness and surface condition",
+      "Coolant hoses",
+      "Spark plugs",
+      "Fuel injectors"
+    ],
+    "answer": "A) Rotor thickness and surface condition"
+  },
+  {
+    "id": 53,
+    "question": "Which component prevents rear-wheel lockup during heavy braking?",
+    "options": [
+      "Proportioning valve",
+      "Residual valve",
+      "Return spring",
+      "Metering valve",
+      "It is silicone-based",
+      "It is glycol-based",
+      "It absorbs more moisture",
+      "It is red in color"
+    ],
+    "answer": "A) It is silicone-based"
+  },
+  {
+    "id": 55,
+    "question": "What happens when brake fluid absorbs moisture?",
+    "options": [
+      "Lower boiling point",
+      "Increased corrosion",
+      "Reduced braking efficiency",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 56,
+    "question": "Which tool measures rotor runout?",
+    "options": [
+      "Dial indicator",
+      "Micrometer",
+      "Feeler gauge",
+      "Torque wrench"
+    ],
+    "answer": "A) Dial indicator"
+  },
+  {
+    "id": 57,
+    "question": "Which condition causes a pulsating brake pedal during braking?",
+    "options": [
+      "Warped rotors",
+      "Low tire pressure",
+      "Bad alignment",
+      "Worn shocks"
+    ],
+    "answer": "A) Warped rotors"
+  },
+  {
+    "id": 58,
+    "question": "Which device stores vacuum for the brake booster?",
+    "options": [
+      "Vacuum reservoir",
+      "Intake manifold",
+      "Master cylinder",
+      "ABS pump"
+    ],
+    "answer": "A) Vacuum reservoir"
+  },
+  {
+    "id": 65,
+    "question": "What should be done after replacing brake rotors?",
+    "options": [
+      "Clean with brake cleaner to remove oil coating",
+      "Sand with coarse grit",
+      "Leave oil for lubrication",
+      "Heat with a torch"
+    ],
+    "answer": "A) Clean with brake cleaner to remove oil coating"
+  },
+  {
+    "id": 66,
+    "question": "Which ABS sensor type is most common today?",
+    "options": [
+      "Magnetic wheel speed sensor",
+      "Mechanical sensor",
+      "Optical sensor",
+      "Hydraulic sensor"
+    ],
+    "answer": "A) Magnetic wheel speed sensor"
+  },
+  {
+    "id": 67,
+    "question": "Which condition would cause a brake warning light to turn on?",
+    "options": [
+      "Low fluid level in master cylinder",
+      "Burned fuse",
+      "Blown headlight",
+      "Worn shocks"
+    ],
+    "answer": "A) Low fluid level in master cylinder"
+  },
+  {
+    "id": 68,
+    "question": "Which material is commonly used in brake rotors?",
+    "options": [
+      "Cast iron",
+      "Aluminum only",
+      "Stainless steel",
+      "Plastic composite"
+    ],
+    "answer": "A) Cast iron"
+  },
+  {
+    "id": 69,
+    "question": "Which part prevents brake shoes from dragging against the drum?",
+    "options": [
+      "Return springs",
+      "Adjuster",
+      "Residual valve",
+      "Bleeder screw"
+    ],
+    "answer": "A) Return springs"
+  },
+  {
+    "id": 70,
+    "question": "Which brake condition is most dangerous at high speeds?",
+    "options": [
+      "Brake fade",
+      "Dusty pads",
+      "Low tire pressure",
+      "Slight pull"
+    ],
+    "answer": "A) Brake fade"
+  },
+  {
+    "id": 77,
+    "question": "Which tool measures rotor thickness?",
+    "options": [
+      "Micrometer",
+      "Dial indicator",
+      "Vernier caliper",
+      "Feeler gauge"
+    ],
+    "answer": "A) Micrometer"
+  },
+  {
+    "id": 78,
+    "question": "What is the function of the star wheel in drum brakes?",
+    "options": [
+      "Adjust shoe clearance",
+      "Release fluid pressure",
+      "Increase pedal travel",
+      "Prevent vibration"
+    ],
+    "answer": "A) Adjust shoe clearance"
+  },
+  {
+    "id": 79,
+    "question": "Which brake component directly contacts the rotor?",
+    "options": [
+      "Brake pads",
+      "Caliper piston",
+      "Backing plate",
+      "Master cylinder"
+    ],
+    "answer": "A) Brake pads"
+  },
+  {
+    "id": 80,
+    "question": "Which brake system uses both hydraulic and electronic control?",
+    "options": [
+      "ABS",
+      "Vacuum-only brakes",
+      "Mechanical brakes",
+      "Air brakes"
+    ],
+    "answer": "A) ABS"
+  },
+  {
+    "id": 81,
+    "question": "Which material is used for high-performance brake rotors?",
+    "options": [
+      "Carbon-ceramic",
+      "Plastic",
+      "Copper",
+      "Lead"
+    ],
+    "answer": "A) Carbon-ceramic"
+  },
+  {
+    "id": 82,
+    "question": "Which symptom indicates air in brake lines?",
+    "options": [
+      "Spongy brake pedal",
+      "Hard pedal",
+      "Low fluid boiling point",
+      "Brake drag"
+    ],
+    "answer": "A) Spongy brake pedal"
+  },
+  {
+    "id": 89,
+    "question": "What happens if a proportioning valve fails?",
+    "options": [
+      "Rear wheels lock up under braking",
+      "Vehicle won’t start",
+      "Alternator overcharges",
+      "Steering locks"
+    ],
+    "answer": "A) Rear wheels lock up under braking"
+  },
+  {
+    "id": 90,
+    "question": "What condition causes a grinding sound while braking?",
+    "options": [
+      "Pads worn to metal backing",
+      "Loose wheel nuts",
+      "Bent strut",
+      "Misaligned tires"
+    ],
+    "answer": "A) Pads worn to metal backing"
+  },
+  {
+    "id": 91,
+    "question": "Which safety precaution is important during brake service?",
+    "options": [
+      "Avoid inhaling brake dust",
+      "Overinflate tires",
+      "Drain engine coolant",
+      "Disconnect headlights"
+    ],
+    "answer": "A) Avoid inhaling brake dust"
+  },
+  {
+    "id": 92,
+    "question": "Which braking system part may contain asbestos in older cars?",
+    "options": [
+      "Brake shoes",
+      "Spark plugs",
+      "Belts",
+      "Pistons"
+    ],
+    "answer": "A) Brake shoes"
+  },
+  {
+    "id": 93,
+    "question": "Which brake system requires a power source other than vacuum?",
+    "options": [
+      "Hydraulic-electric brake booster",
+      "Standard vacuum booster",
+      "Manual brakes",
+      "Drum brakes"
+    ],
+    "answer": "A) Hydraulic-electric brake booster"
+  },
+  {
+    "id": 94,
+    "question": "What condition can cause a thumping sound in drum brakes?",
+    "options": [
+      "Out-of-round drum",
+      "Worn pads",
+      "Glazed rotor",
+      "Bad shocks"
+    ],
+    "answer": "A) Out-of-round drum"
+  },
+  {
+    "id": 101,
+    "question": "What is the main cause of brake fade?",
+    "options": [
+      "Overheating of brake components",
+      "Low tire pressure",
+      "Faulty spark plugs",
+      "Weak return springs"
+    ],
+    "answer": "A) Overheating of brake components"
+  },
+  {
+    "id": 102,
+    "question": "Which test checks brake fluid for contamination?",
+    "options": [
+      "Boiling point test",
+      "Compression test",
+      "Load test",
+      "Voltage drop test"
+    ],
+    "answer": "A) Boiling point test"
+  },
+  {
+    "id": 103,
+    "question": "Which type of brake caliper has a piston on each side?",
+    "options": [
+      "Fixed caliper",
+      "Floating caliper",
+      "Sliding caliper",
+      "Drum brake cylinder"
+    ],
+    "answer": "A) Fixed caliper"
+  },
+  {
+    "id": 104,
+    "question": "Which drum brake part applies force to the shoes?",
+    "options": [
+      "Wheel cylinder",
+      "Return spring",
+      "Adjuster lever",
+      "Star wheel"
+    ],
+    "answer": "A) Wheel cylinder"
+  },
+  {
+    "id": 105,
+    "question": "What happens if the brake pedal free play is excessive?",
+    "options": [
+      "Delayed brake application",
+      "Faster stopping",
+      "Reduced pedal travel",
+      "Normal braking"
+    ],
+    "answer": "A) Delayed brake application"
+  },
+  {
+    "id": 106,
+    "question": "Which ABS component modulates hydraulic pressure?",
+    "options": [
+      "Hydraulic control unit",
+      "Brake booster",
+      "Wheel cylinder",
+      "Master cylinder only"
+    ],
+    "answer": "A) Hydraulic control unit"
+  },
+  {
+    "id": 112,
+    "question": "Which condition causes a brake pedal to slowly sink under pressure?",
+    "options": [
+      "Internal leak in master cylinder",
+      "Air in brake lines",
+      "Weak return springs",
+      "Worn pads"
+    ],
+    "answer": "A) Internal leak in master cylinder"
+  },
+  {
+    "id": 113,
+    "question": "Which device prevents rear brakes from engaging before front brakes?",
+    "options": [
+      "Metering valve",
+      "Residual valve",
+      "Star wheel",
+      "Booster"
+    ],
+    "answer": "A) Metering valve"
+  },
+  {
+    "id": 114,
+    "question": "Which type of brake system is most resistant to water fade?",
+    "options": [
+      "Disc brakes",
+      "Drum brakes",
+      "Parking brakes",
+      "Air brakes"
+    ],
+    "answer": "A) Disc brakes"
+  },
+  {
+    "id": 115,
+    "question": "What happens if a rotor has deep scoring?",
+    "options": [
+      "Reduced braking efficiency",
+      "Brake noise",
+      "Increased stopping distance",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 116,
+    "question": "What is the purpose of anti-lock braking systems (ABS)?",
+    "options": [
+      "Prevent wheel lockup during braking",
+      "Shorten pedal travel",
+      "Replace power steering",
+      "Increase engine power"
+    ],
+    "answer": "A) Prevent wheel lockup during braking"
+  },
+  {
+    "id": 117,
+    "question": "Which component is bled first during manual bleeding (typical sequence)?",
+    "options": [
+      "Farthest wheel cylinder/caliper from master cylinder",
+      "Closest caliper",
+      "Any order",
+      "ABS pump first"
+    ],
+    "answer": "A) Farthest wheel cylinder/caliper from master cylinder"
+  },
+  {
+    "id": 124,
+    "question": "Which material is common in high-performance brake pads?",
+    "options": [
+      "Carbon fiber",
+      "Plastic",
+      "Aluminum",
+      "Lead"
+    ],
+    "answer": "A) Carbon fiber"
+  },
+  {
+    "id": 125,
+    "question": "Which tool measures brake shoe lining thickness?",
+    "options": [
+      "Brake lining gauge",
+      "Torque wrench",
+      "Compression gauge",
+      "Caliper tool"
+    ],
+    "answer": "A) Brake lining gauge"
+  },
+  {
+    "id": 126,
+    "question": "Which condition indicates rear brake malfunction?",
+    "options": [
+      "Excessive pedal travel",
+      "Rear wheel lock-up",
+      "Poor parking brake hold",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 127,
+    "question": "Which brake light switch type is most common today?",
+    "options": [
+      "Electrical switch at pedal",
+      "Hydraulic pressure switch",
+      "Mechanical cable switch",
+      "Timer switch"
+    ],
+    "answer": "A) Electrical switch at pedal"
+  },
+  {
+    "id": 128,
+    "question": "What is the function of the master cylinder primary piston?",
+    "options": [
+      "Apply front brakes",
+      "Apply rear brakes",
+      "Apply both circuits in sequence",
+      "Only store fluid"
+    ],
+    "answer": "C) Apply both circuits in sequence"
+  },
+  {
+    "id": 129,
+    "question": "Which condition occurs if a wheel cylinder leaks internally?",
+    "options": [
+      "Loss of braking force in that wheel",
+      "Brake drag",
+      "Fluid contamination",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 136,
+    "question": "Which problem can occur if pads are installed backwards?",
+    "options": [
+      "No braking and rotor damage",
+      "Excessive pedal travel",
+      "Brake drag only",
+      "Slight squeak"
+    ],
+    "answer": "A) No braking and rotor damage"
+  },
+  {
+    "id": 137,
+    "question": "Which part connects the brake pedal to the booster or master cylinder?",
+    "options": [
+      "Pushrod",
+      "Return spring",
+      "Adjuster lever",
+      "Residual valve"
+    ],
+    "answer": "A) Pushrod"
+  },
+  {
+    "id": 138,
+    "question": "Which condition is most likely if only rear brakes are overheating?",
+    "options": [
+      "Parking brake stuck",
+      "Bad booster",
+      "Low fluid",
+      "Bad alternator"
+    ],
+    "answer": "A) Parking brake stuck"
+  },
+  {
+    "id": 139,
+    "question": "Which component is used to test brake booster operation?",
+    "options": [
+      "Vacuum gauge",
+      "Pressure tester",
+      "Dial indicator",
+      "Ammeter"
+    ],
+    "answer": "A) Vacuum gauge"
+  },
+  {
+    "id": 140,
+    "question": "Which condition may cause the ABS to activate at low speeds unnecessarily?",
+    "options": [
+      "Cracked or dirty tone ring",
+      "Low brake fluid",
+      "Bad booster",
+      "Overfilled master cylinder"
+    ],
+    "answer": "A) Cracked or dirty tone ring"
+  },
+  {
+    "id": 141,
+    "question": "Which brake type provides the most consistent performance under heat?",
+    "options": [
+      "Disc brakes",
+      "Drum brakes",
+      "Mechanical brakes",
+      "Air brakes"
+    ],
+    "answer": "A) Disc brakes"
+  },
+  {
+    "id": 148,
+    "question": "Which part of the disc brake ensures equal clamping force?",
+    "options": [
+      "Caliper housing",
+      "Booster diaphragm",
+      "Pedal return spring",
+      "Star wheel"
+    ],
+    "answer": "A) Caliper housing"
+  },
+  {
+    "id": 149,
+    "question": "Which condition results from improperly torqued lug nuts?",
+    "options": [
+      "Warped rotors",
+      "Worn shocks",
+      "Brake booster failure",
+      "Soft pedal"
+    ],
+    "answer": "A) Warped rotors"
+  },
+  {
+    "id": 150,
+    "question": "What happens when a master cylinder fails internally?",
+    "options": [
+      "Brake pedal slowly sinks with pressure applied",
+      "Grinding noise",
+      "Hard pedal",
+      "Pulsating pedal"
+    ],
+    "answer": "A) Brake pedal slowly sinks with pressure applied"
+  },
+  {
+    "id": 151,
+    "question": "Which part holds the brake pads in position inside the caliper?",
+    "options": [
+      "Retaining clips",
+      "Booster spring",
+      "Residual valve",
+      "Metering valve"
+    ],
+    "answer": "A) Retaining clips"
+  },
+  {
+    "id": 152,
+    "question": "What is the main function of the brake dust shield?",
+    "options": [
+      "Protect rotor and caliper from debris",
+      "Reduce brake fade",
+      "Increase pad life only",
+      "Balance wheel alignment"
+    ],
+    "answer": "A) Protect rotor and caliper from debris"
+  },
+  {
+    "id": 153,
+    "question": "Which condition causes the ABS pump motor to run continuously?",
+    "options": [
+      "Stuck relay or faulty ABS module",
+      "Low tire pressure",
+      "Dirty air filter",
+      "Weak alternator"
+    ],
+    "answer": "A) Stuck relay or faulty ABS module"
+  },
+  {
+    "id": 160,
+    "question": "Which brake component is normally mounted on the firewall?",
+    "options": [
+      "Master cylinder and booster",
+      "Caliper",
+      "Wheel cylinder",
+      "Rotor"
+    ],
+    "answer": "A) Master cylinder and booster"
+  },
+  {
+    "id": 161,
+    "question": "What type of hydraulic system provides braking if one half fails?",
+    "options": [
+      "Dual-circuit master cylinder system",
+      "Vacuum-only system",
+      "Manual cable system",
+      "ABS only system"
+    ],
+    "answer": "A) Dual-circuit master cylinder system"
+  },
+  {
+    "id": 162,
+    "question": "Which type of drum brake design uses both shoes to help apply each other?",
+    "options": [
+      "Duo-servo",
+      "Leading-trailing",
+      "Floating shoe",
+      "Disc/drum combo"
+    ],
+    "answer": "A) Duo-servo"
+  },
+  {
+    "id": 163,
+    "question": "Which tool is used to flare brake lines?",
+    "options": [
+      "Double-flaring tool",
+      "Micrometer",
+      "Dial indicator",
+      "Torque wrench"
+    ],
+    "answer": "A) Double-flaring tool"
+  },
+  {
+    "id": 164,
+    "question": "Which part is commonly replaced when brake hoses swell internally?",
+    "options": [
+      "Rubber brake hose",
+      "Rotor",
+      "Booster",
+      "ABS module"
+    ],
+    "answer": "A) Rubber brake hose"
+  },
+  {
+    "id": 165,
+    "question": "Which brake component can be adjusted in some drum systems to maintain proper shoe clearance?",
+    "options": [
+      "Star wheel adjuster",
+      "Booster spring",
+      "Proportioning valve",
+      "Metering valve"
+    ],
+    "answer": "A) Star wheel adjuster"
+  },
+  {
+    "id": 172,
+    "question": "Which ABS type controls front brakes separately but rear together?",
+    "options": [
+      "Three-channel ABS",
+      "Four-channel ABS",
+      "One-channel ABS",
+      "Dual-servo ABS"
+    ],
+    "answer": "A) Three-channel ABS"
+  },
+  {
+    "id": 173,
+    "question": "Which condition can cause long stopping distance with no noise?",
+    "options": [
+      "Glazed pads",
+      "Worn shocks",
+      "Bent control arm",
+      "Bad tires"
+    ],
+    "answer": "A) Glazed pads"
+  },
+  {
+    "id": 174,
+    "question": "Which fluid is hygroscopic (absorbs moisture)?",
+    "options": [
+      "DOT 3 brake fluid",
+      "DOT 5 brake fluid",
+      "Power steering fluid",
+      "Transmission fluid"
+    ],
+    "answer": "A) DOT 3 brake fluid"
+  },
+  {
+    "id": 175,
+    "question": "Which tool is used to measure brake pedal effort?",
+    "options": [
+      "Brake pedal pressure gauge",
+      "Torque wrench",
+      "Vacuum gauge",
+      "Spring scale"
+    ],
+    "answer": "A) Brake pedal pressure gauge"
+  },
+  {
+    "id": 176,
+    "question": "Which brake component is often equipped with electronic wear sensors?",
+    "options": [
+      "Brake pads",
+      "Wheel cylinders",
+      "Rotors",
+      "Booster"
+    ],
+    "answer": "A) Brake pads"
+  },
+  {
+    "id": 177,
+    "question": "Which symptom occurs with a cracked brake rotor?",
+    "options": [
+      "Clicking or vibration under braking",
+      "Pedal sponginess",
+      "Pedal sinking",
+      "Fluid leak"
+    ],
+    "answer": "A) Clicking or vibration under braking"
+  },
+  {
+    "id": 184,
+    "question": "Which condition may cause one wheel to lock before others?",
+    "options": [
+      "Faulty proportioning valve",
+      "Bad booster",
+      "Low coolant",
+      "Loose tie rod"
+    ],
+    "answer": "A) Faulty proportioning valve"
+  },
+  {
+    "id": 185,
+    "question": "Which brake shoe is positioned toward the rear in duo-servo systems?",
+    "options": [
+      "Secondary shoe",
+      "Primary shoe",
+      "Floating shoe",
+      "Parking shoe"
+    ],
+    "answer": "A) Secondary shoe"
+  },
+  {
+    "id": 186,
+    "question": "Which condition can result from overtightened wheel bearings?",
+    "options": [
+      "Rotor warpage and brake drag",
+      "Brake fade",
+      "Pedal sponginess",
+      "ABS light on only"
+    ],
+    "answer": "A) Rotor warpage and brake drag"
+  },
+  {
+    "id": 187,
+    "question": "Which safety step is required when servicing ABS?",
+    "options": [
+      "Disconnect battery before repairs",
+      "Drain coolant first",
+      "Pump brakes with key on",
+      "Remove fuel pump relay"
+    ],
+    "answer": "A) Disconnect battery before repairs"
+  },
+  {
+    "id": 188,
+    "question": "Which device senses brake pedal application in modern cars for ESC?",
+    "options": [
+      "Brake pedal position sensor",
+      "O2 sensor",
+      "Knock sensor",
+      "MAP sensor"
+    ],
+    "answer": "A) Brake pedal position sensor"
+  },
+  {
+    "id": 189,
+    "question": "Which brake component contains hydraulic seals that wear out?",
+    "options": [
+      "Master cylinder",
+      "Booster diaphragm",
+      "Dust shield",
+      "Tone ring"
+    ],
+    "answer": "A) Master cylinder"
+  },
+  {
+    "id": 196,
+    "question": "Which condition occurs if brake rotors are overheated repeatedly?",
+    "options": [
+      "Heat checking and cracking",
+      "Brake fluid leak",
+      "Air in system",
+      "Booster failure"
+    ],
+    "answer": "A) Heat checking and cracking"
+  },
+  {
+    "id": 197,
+    "question": "Which brake fluid type is compatible with DOT 3 and DOT 4?",
+    "options": [
+      "DOT 5.1",
+      "DOT 5",
+      "DOT 2",
+      "Silicone fluid"
+    ],
+    "answer": "A) DOT 5.1"
+  },
+  {
+    "id": 198,
+    "question": "Which symptom occurs if caliper piston seals are torn?",
+    "options": [
+      "Brake fluid leak",
+      "Brake drag",
+      "Reduced braking force",
+      "All of the above"
+    ],
+    "answer": "D) All of the above"
+  },
+  {
+    "id": 199,
+    "question": "Which condition causes rear brakes to overheat in drum systems?",
+    "options": [
+      "Over-tightened parking brake cable",
+      "Weak booster",
+      "Bad alternator",
+      "Tire imbalance"
+    ],
+    "answer": "A) Over-tightened parking brake cable"
+  },
+  {
+    "id": 200,
+    "question": "Which step should always be performed after brake work?",
+    "options": [
+      "Road test and bed-in procedure",
+      "Replace spark plugs",
+      "Inflate spare tire",
+      "Check coolant level"
+    ],
+    "answer": "A) Road test and bed-in procedure"
+  }
+]
